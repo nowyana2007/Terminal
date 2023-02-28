@@ -1,0 +1,5 @@
+Посмотреть где я /pwd
+Создать папку / mkdir folder_1
+Зайти в папку / cd folder_1
+Создать три папки / mkdir folder_1.1 folder_1.2 folder_1.3
+Зайти в любую папку / cd folder_1.1
